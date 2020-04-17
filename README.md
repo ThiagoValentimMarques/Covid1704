@@ -12,6 +12,6 @@ Diante disso, resolvi coletar dados sobre os (i) casos confirmados e óbitos por
 
 A postagem completa encontrasse [neste link](https://thiagovalentim.netlify.app/post/como-alguns-paises-estao-lidando-com-a-covid-19/).
 
-
+![](https://github.com/ThiagoValentimMarques/Covid1704/blob/master/image.png?raw=true)
 
 
